@@ -5021,7 +5021,7 @@ li {
 .testm-section-6 {
     background-color: #0c314e;
     padding: 110px 0 120px;
-    background-image: url(../images/background/3.jpg);
+    background-image: url(../images/background/feedback.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
@@ -5169,7 +5169,7 @@ li {
 .homecontact-2 {
     background-color: #0c314e;
     padding: 100px 0 100px;
-    background-image: url(../images/background/3.jpg);
+    /* background-image: url(../images/background/3.jpg); */
     background-repeat: no-repeat;
     background-position: center center;
     position: relative;
@@ -5919,7 +5919,7 @@ li {
 .our-process2 {
     padding: 100px 0 110px;
     background: #181818;
-    background-image: url(../images/background/2.jpg);
+    background-image: url(../images/background/service.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
