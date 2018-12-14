@@ -1583,7 +1583,7 @@ li {
 
 .gallery-section {
     padding: 100px 0 120px;
-    background: url(../images/icons/curtains2.png) 0 bottom repeat-x;
+    /*background: url(../images/icons/curtains2.png) 0 bottom repeat-x;*/
     background-size: auto auto;
     background-size: 35px;
 }
@@ -4878,7 +4878,7 @@ li {
 
 .testm-section-4 {
     padding: 120px 0 110px;
-    background: url(../images/icons/curtains3.png) 0 0 repeat-x;
+    /*background: url(../images/icons/curtains3.png) 0 0 repeat-x;*/
     background-size: 35px;
 }
 
