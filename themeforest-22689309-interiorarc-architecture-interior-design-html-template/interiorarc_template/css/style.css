@@ -232,7 +232,7 @@ li {
 }
 
 .btn-style1 {
-    background: #bf9a59;
+    background: #253877;
     color: #fff;
     padding: 7px 20px;
     font-size: 16px;
@@ -5076,6 +5076,7 @@ li {
     overflow: hidden;
     border: 7px solid rgba(0, 0, 0, 0.2);
     padding: 0px;
+    background: #b1b1b1;
 }
 
 .testm-section-6 .client_image img {
