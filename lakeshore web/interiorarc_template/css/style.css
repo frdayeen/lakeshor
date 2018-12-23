@@ -5049,9 +5049,9 @@ li {
 }
 
 .testm-section-6 {
-    background-color: #0c314e;
+    /* background-color: #0c314e; */
     padding: 110px 0 120px;
-    background-image: url(../images/background/feedback.jpg);
+    /* background-image: url(../images/background/feedback.jpg); */
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
@@ -5069,21 +5069,21 @@ li {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background: rgba(0, 0, 0, 0.8);
+    /* background: rgba(0, 0, 0, 0.8); */
 }
 
 .testm-section-6 .testbox {
-    border: 1px solid #eee;
+    border: 4px solid #eee;
     padding: 25px 25px 25px 80px;
     position: relative;
-    background: #151515;
+    /* background: #151515; */
     margin-left: 60px;
     margin-right: 10px;
     text-align: left;
 }
 
 .testm-section-6 .testbox p {
-    color: #fff;
+    /* color: #fff; */
 }
 
 .testm-section-6 .client_info {
@@ -5785,6 +5785,7 @@ li {
     top: 0;
     right: -28px;
     transform: skewX(26deg);
+    z-index: -9;
 }
 
 .stripcontact li {
